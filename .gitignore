@@ -66,3 +66,6 @@ __pycache__/
 
 # Model Files
 weights/
+
+# .txt Files
+*.txt
