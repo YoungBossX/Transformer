@@ -69,3 +69,9 @@ weights/
 
 # .txt Files
 *.txt
+
+# .jon Files
+*.json
+
+# .jsonl Files
+*.jsonl
